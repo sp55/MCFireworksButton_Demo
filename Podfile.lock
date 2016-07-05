@@ -1,0 +1,10 @@
+PODS:
+  - MCFireworksButton (0.1)
+
+DEPENDENCIES:
+  - MCFireworksButton
+
+SPEC CHECKSUMS:
+  MCFireworksButton: ba531989811e2483e1b32e243fa2f545fd4fb779
+
+COCOAPODS: 0.39.0
